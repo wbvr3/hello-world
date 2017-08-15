@@ -1,6 +1,6 @@
 # hello-world
 
-# my name is bill v.r
+# my name is bill v.r iii
 # i'm originally from new york city (born in manhattan)
 # went to high school in the bronx
 # now living in jacksonville fl by way of greenwich/ct and miami/fl
